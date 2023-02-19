@@ -85,6 +85,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFVQYOPW
 
+[Document3]
+DocumentPath=Libraries\PCB Library Documents\PcbLib1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WDBCBFFN
+
 [GeneratedDocument1]
 DocumentPath=Libraries\Schematic Library Documents\Schlib1.csv
 DItemRevisionGUID=
