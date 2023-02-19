@@ -35,7 +35,10 @@ IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=ED2975F8-EC2A-4113-9A6C-5C871AFAC957
+VaultGUID=88DCDA20-F520-4320-BC9A-3938C4B8CEA2
+ReleaseVaultName=University of Waterloo
+ItemGUID=ED2975F8-EC2A-4113-9A6C-5C871AFAC957
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -81,6 +84,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFVQYOPW
+
+[GeneratedDocument1]
+DocumentPath=Libraries\Schematic Library Documents\Schlib1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Libraries\Schematic Library Documents\Schlib1.rep
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
