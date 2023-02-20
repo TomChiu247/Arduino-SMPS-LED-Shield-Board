@@ -137,10 +137,14 @@ GenerateClassCluster=0
 DocumentUniqueId=HBRBAMCO
 
 [GeneratedDocument1]
-DocumentPath=Libraries\Schematic Library Documents\Schlib1.csv
+DocumentPath=Project Outputs for Arduino-SMPS-LED-Shield-Board\Design Rule Check - Arduino-SMPS-LED-Shield-Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Libraries\Schematic Library Documents\Schlib1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Libraries\Schematic Library Documents\Schlib1.rep
 DItemRevisionGUID=
 
